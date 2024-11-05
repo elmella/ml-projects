@@ -1,0 +1,28 @@
+04/09/24 21:39
+
+Problem1 (5 points):
+Score += 5
+
+Problem2 (5 points):
+Score += 5
+
+Problem3 (10 points):
+Not printing num model parameters
+Score += 8
+
+Problem4 (15 points):
+Score += 15
+
+Problem5 (10 points):
+Not plotting epsilons versus accuracies
+Score += 7
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,31 @@
+01/30/24 19:23
+
+Problem1 (10 points):
+Score += 9
+Comment: Your plot of the log densities should be steeper.
+
+Problem2 (5 points):
+Score += 5
+
+Problem3 (5 points):
+Score += 5
+
+Problem4 (5 points):
+Score += 5
+
+Problem5 (5 points):
+Score += 5
+
+Problem6 (15 points):
+No acceptance rates
+Score += 12
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

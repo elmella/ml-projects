@@ -1,0 +1,54 @@
+09/19/23 19:00
+
+Problem1 (10 points):
+Missing some axis labels on your plots
+Score += 8
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+Need a y-axis label on your box plot
+Score += 9
+
+Problem4 (15 points):
+No citations on any of the graphs
+Score += 9
+
+CodeQuality (5 points):
+Missin comments on Problem 3
+Score += 4
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+09/27/23 23:48
+
+Problem1 (10 points):
+ 
+Score += 8
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+ 
+Score += 9
+
+Problem4 (15 points):
+Corrected for grader error
+Score += 13
+
+CodeQuality (5 points):
+ 
+Score += 4
+
+Total score: 44/50 = 88.0%
+
+
+Comments:
+	Corrected for grader error
+
+-------------------------------------------------------------------------------
+

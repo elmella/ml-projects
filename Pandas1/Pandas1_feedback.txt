@@ -1,0 +1,29 @@
+09/13/23 10:06
+
+prob1 (5 points):
+Score += 5
+
+prob2 (10 points):
+Score += 10
+
+prob3 (10 points):
+Score += 10
+
+prob4 (5 points):
+Score += 5
+
+prob5 (5 points):
+Score += 5
+
+prob6 (10 points):
+Score += 10
+
+code_quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,33 @@
+04/16/24 14:36
+
+rnn.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+04/16/24 16:25
+
+Problem1 (5 points):
+Score += 5
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (15 points):
+No final test accuarcy reported
+Score += 13
+
+Problem4 (10 points):
+Score += 10
+
+Problem5 (5 points):
+Score += 5
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

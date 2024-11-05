@@ -1,0 +1,24 @@
+11/08/23 19:36
+
+Problem1 (10 points):
+Entering Grade Level and School Assigned do not meet the criteria of the question.
+Score += 8
+
+Problem2 (10 points):
+No explanation of dropeed ranges. Did not actually print the first rows of the dataframe.
+Score += 6
+
+Problem3 (15 points):
+Score += 15
+
+Problem4 (10 points):
+Insufficient explanation
+Score += 8
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+-------------------------------------------------------------------------------
+

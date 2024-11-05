@@ -1,0 +1,33 @@
+
+11/03/23 16:51
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problems 3 & 4 (15 points):
+Score += 15
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Your accuracy 0.6333333333333333 is too far from scikit-learn's 0.9333333333333333
+Improper implementation of RandomForestClassifier on whole data set
+Score += 1
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+
